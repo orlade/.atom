@@ -1,0 +1,35 @@
+"*":
+  "exception-reporting":
+    userId: "a69e0e18-cc27-66a2-9dc6-0b50e7c84b0c"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showInvisibles: true
+    preferredLineLength: 100
+    fontSize: 16
+  "git-plus": {}
+  "expand-region": {}
+  "meteor-helper": {}
+  "git-clone":
+    target_directory: "C:\\dev\\workspace"
+".html.spacebars.text":
+  editor:
+    preferredLineLength: 100
+".basic.html.text":
+  editor:
+    preferredLineLength: 100
+".css.less.source":
+  editor:
+    preferredLineLength: 100
+".coffee.source":
+  editor:
+    preferredLineLength: 100
+".js.source":
+  editor:
+    preferredLineLength: 100
+".diff.source":
+  editor:
+    preferredLineLength: 100
